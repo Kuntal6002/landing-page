@@ -1,0 +1,19 @@
+.header{
+    background: #333333	;
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar-pages a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: azure;
+    padding: 13px;
+}
+.logo img{
+    height:50px;
+    width:auto;
+}
